@@ -17,7 +17,7 @@ constraint input will always be an integer, between 1 and 100
 77 red
 1 red
 24 blue
-6
+
 
 """
 
